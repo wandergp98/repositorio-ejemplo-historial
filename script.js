@@ -1,1 +1,1 @@
-console.log("Página cargada");
+console.log("Contenido listo");
